@@ -1,5 +1,5 @@
 
-Reinforcement Learning - Markov Decision Process (MDP)
+###Reinforcement Learning - Markov Decision Process (MDP)
 
 In this assignment, I tested two model-based planning algorithms (value iteration and policy iteration) and one model-free learning algorithm (Q-learning). To demonstrate the different properties of these algorithms, I randomly created two grid worlds MDPs and solve them using these three algorithms separately. 
 
